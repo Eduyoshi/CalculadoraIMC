@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="tittle_Purple">
+        <item name="android:textAllCaps">true</item>
+        <item name="android:textColor">#2196F3</item>
+        <item name="android:textSize">40sp</item>
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="insersion_Style">
+        <item name="android:layout_marginTop">56dp</item>
+        <item name="android:inputType">numberDecimal</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textAlignment">center</item>
+    </style>
+</resources>
